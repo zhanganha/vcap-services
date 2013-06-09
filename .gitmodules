@@ -1,3 +1,9 @@
+[submodule "wtp"]
+	path = wtp
+	url = https://github.com/zhanganha/wtp.git
+[submodule "tlrt"]
+	path = tlrt
+	url = https://github.com/zhanganha/tlrt.git
 [submodule "govendor"]
 	path = govendor
 	url = http://github.com/cloudfoundry/govendor.git
