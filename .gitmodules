@@ -1,8 +1,8 @@
-[submodule "wtp"]
-        path = wtp
+[submodule "ng/wtp"]
+        path = ng/wtp
         url = https://github.com/zhanganha/wtp.git
-[submodule "tlrt"]
-	path = tlrt
+[submodule "ng/tlrt"]
+	path = ng/tlrt
 	url = https://github.com/zhanganha/tlrt.git
 [submodule "govendor"]
         path = govendor
