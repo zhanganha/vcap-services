@@ -1,12 +1,1 @@
-[submodule "wtp"]
-	path = wtp
-	url = http://github.com/zhanganha/wtp.git
-[submodule "tlrt"]
-	path = tlrt
-	url = http://github.com/zhanganha/tlrt.git
-[submodule "govendor"]
-	path = govendor
-	url = http://github.com/cloudfoundry/govendor.git
-[submodule "vendor/integration-test-support"]
-	path = vendor/integration-test-support
-	url = git@github.com:cloudfoundry/integration-test-support.git
+
