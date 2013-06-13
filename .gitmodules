@@ -1,6 +1,6 @@
 [submodule "ng/wtp"]
-        path = ng/wtp
-        url = https://github.com/zhanganha/wtp.git
+	path = ng/wtp
+	url = https://github.com/zhanganha/wtp.git
 [submodule "ng/tlrt"]
 	path = ng/tlrt
 	url = https://github.com/zhanganha/tlrt.git
